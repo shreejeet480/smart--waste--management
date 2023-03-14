@@ -1,4 +1,4 @@
-# smart--waste--management
+# SMART--WASTE--MANAGEMENT
 #  INTRODUCTION :
 
 The IOT Garbage Monitoring System is designed by ease the problems people or organisation face while managing their waste. The system allow the user to keep watch on the garbage bins by utilizing LED and IoT service. The system has a LED on it which sets off an alarm on fulfillment of the garbage bin, other than this the user can also watch over the bins from anywhere using IoT service.
