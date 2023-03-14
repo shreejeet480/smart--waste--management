@@ -69,15 +69,10 @@ Individual jump wires are fitted by inserting their "end connectors" into the sl
  
 
 
-FLOWCHART :
-
-
-
-
  
 
 
-METHODOLOGY :
+#  METHODOLOGY:
 
 The IOT garbage monitoring using Raspberry Pi project uses two ultrasonic sensors to monitor the garbage level of two bins. The ultrasonic sensors consist of a transmitter and a receiver. They work on the principle of Doppler’s effect. The sensor generates an ultrasonic wave that reflects back after colliding with an obstacle or an object. The time-lapse between the transmission and reception of the ultrasonic wave is measured by the ultrasonic sensor and the distance calculation is made based on this time-lapse value. The distance measured by the sensor in our case is the distance between the sensor and the surface level of the garbage.
 The garbage fill level of the bins as measured by the ultrasonic sensors is continuously fed to the Raspberry Pi single-board computer. The Raspberry Pi controller processes this data and transmits it to the output devices as well as the remote servers.
